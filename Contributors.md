@@ -114,6 +114,7 @@
 -Vikas Palakurthi
 -Bhavesh K.
 -Stergios Sozos
+- Ben Siegel
 - Sara Sands
 - [Kunal Bhattacharya] (https://github.com/kunaljubce)
 - Clinton ceeb3
